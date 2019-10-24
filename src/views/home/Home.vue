@@ -19,6 +19,7 @@
   .home-nav {
     background-color: var(--color-tint);
     color: #fff;
+    
   }
  
 </style>
