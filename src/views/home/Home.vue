@@ -18,8 +18,7 @@
 <style scoped>
   .home-nav {
     background-color: var(--color-tint);
-    color: #fff;
-    
+    color: #fff;    
   }
  
 </style>
